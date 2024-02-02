@@ -19,5 +19,3 @@
 Если вы уже изучаете веб-разработку на [Нетологии](https://netology.ru), советую посетить сайт [Дока](https://doka.guide "Энциклопедия про web-dev"). Он точно поможет вам в обучении.
 
 ![Конец](https://static.tildacdn.com/tild3633-6633-4637-b038-643034363038/image1.png)
-
-theme: jekyll-theme-Cayman
